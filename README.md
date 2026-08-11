@@ -1,9 +1,9 @@
-👋 Hi, I'm Hari Charan
+<p>👋 Hi, I'm Hari Charan
 
 🎓 B.Tech CSE (Graduating in 2027)  
 💻 Web Developer | Python Enthusiast | MERN Stack Learner  
 📌 Passionate about solving problems and building impactful projects  
-
+</p>
 ---
 
 ## 🚀 About Me
