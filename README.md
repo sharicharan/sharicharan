@@ -87,8 +87,8 @@ A responsive developer portfolio showcasing my **technical skills, projects, cer
 
 ## Professional Links
 
-* 🌐 **Portfolio:** [haricharans.vercel.app](https://www.haricharans.me/)
-* 💼 **LinkedIn:** [Hari Charan](https://www.linkedin.com/in/hari-charan-s-954151297/)
+* 🌐 **Portfolio:** [haricharans.me](https://www.haricharans.me/)
+* 💼 **LinkedIn:** [Hari Charan S](https://www.linkedin.com/in/hari-charan-s-954151297/)
 * 📧 **Email:** [haricharan5432s@gmail.com](mailto:haricharan5432s@gmail.com)
 * 📧 **Email:** [haris.dev.info@gmail.com](mailto:haris.dev.info@gmail.com)
 
