@@ -63,9 +63,14 @@ A modern food web application developed using **React.js, Vite, Tailwind CSS, an
 
 ### 👤 Blood Donation Management Platform
 
-A web-based user management application built with **Python, Flask, and SQLite**. The application provides user registration, authentication, login/logout functionality, and CRUD operations for managing user records.
+A web-based blood donation platform designed to help manage
+**blood donors and donation-related information** through a centralized
+application.
 
-**Technologies:** Python · Flask · SQLite · HTML · CSS
+The project includes user registration, authentication, login/logout
+functionality, and database operations for managing user and donor records.
+
+**Technologies:** Python · Flask · SQLite · HTML · CSS · JavaScript
 
 ---
 
@@ -78,10 +83,19 @@ A responsive developer portfolio showcasing my **technical skills, projects, cer
 ---
 
 ## GitHub Statistics
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=sharicharan&show_icons=true&theme=radical&hide_border=true"
+    alt="Hari Charan's GitHub Statistics"
+  />
+</p>
 
-![Hari Charan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sharicharan\&show_icons=true\&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sharicharan\&layout=compact\&theme=radical)
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharicharan&layout=compact&theme=radical&hide_border=true"
+    alt="Hari Charan's Most Used Languages"
+  />
+</p>
 
 ---
 
