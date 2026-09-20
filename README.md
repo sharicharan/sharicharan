@@ -30,7 +30,7 @@ B.Tech Computer Science & Engineering student focused on **software development,
 
 ### Backend Development
 
-`Python` `Flask` `Django` `Node.js` `Express.js` `REST APIs`
+`Python` `Flask` `Django`  `REST APIs`
 
 ### Database Technologies
 
@@ -47,7 +47,7 @@ B.Tech Computer Science & Engineering student focused on **software development,
 * **Responsive Web Design** — freeCodeCamp
 * **JavaScript Essentials** — Cisco Networking Academy
 * **Python** — HackerRank | 4⭐
-* **Node.js, React.js & JavaScript** — Scaler Topics
+* **React.js & JavaScript** — Scaler Topics
 
 ---
 
@@ -61,7 +61,7 @@ A modern food web application developed using **React.js, Vite, Tailwind CSS, an
 
 ---
 
-### 👤 User Registration & Management System
+### 👤 Blood Donation Management Platform
 
 A web-based user management application built with **Python, Flask, and SQLite**. The application provides user registration, authentication, login/logout functionality, and CRUD operations for managing user records.
 
@@ -87,7 +87,7 @@ A responsive developer portfolio showcasing my **technical skills, projects, cer
 
 ## Professional Links
 
-* 🌐 **Portfolio:** [haricharans.vercel.app](https://haricharans.vercel.app)
+* 🌐 **Portfolio:** [haricharans.vercel.app](https://www.haricharans.me/)
 * 💼 **LinkedIn:** [Hari Charan](https://www.linkedin.com/in/hari-charan-s-954151297/)
 * 📧 **Email:** [haricharan5432s@gmail.com](mailto:haricharan5432s@gmail.com)
 * 📧 **Email:** [haris.dev.info@gmail.com](mailto:haris.dev.info@gmail.com)
